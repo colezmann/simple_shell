@@ -62,7 +62,7 @@ The current working directory as set by the **cd** command.
 
 ```
 $ echo "echo $PWD" | ./shellby
-/home/vagrant/holberton/simple_shell
+/home/vagrant/alx/simple_shell
 ```
 
 #### OLDPWD
@@ -70,7 +70,7 @@ The previous working directory as set by the **cd** command.
 
 ```
 $ echo "echo $OLDPWD" | ./shellby
-/home/vagrant/holberton/printf
+/home/vagrant/alx/printf
 ```
 
 #### PATH
